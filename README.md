@@ -1,4 +1,4 @@
-# SEEgarette-YOLOv9-for-Cigarette-and-E-Cigarette-Detection 
+# SEEgarette YOLOv9 for Cigarette and E Cigarette Detection 
 
 SEEgarette: YOLOv9 for Cigarette and E-Cigarette Detection is a computer vision–based detection system developed for identifying cigarettes and E-Cigarettes in real-time environments using deep learning object detection models. This research explores the effectiveness of YOLOv9 compared with YOLOv8 in detecting smoking-related objects within public and crowded spaces. This study delved into YOLOv9's object detection capability, which can enhance public health monitoring and safety enforcement efforts. Improved detection accuracy supports more efficient identification that could amplify regulation of harmful substances in public spaces. 
 
